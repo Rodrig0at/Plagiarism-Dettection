@@ -1,0 +1,10 @@
+__pycache__/
+
+split.py
+stats.py
+stats.txt
+data_dir.zip
+data_dir/test.csv.original
+
+crawl_dir/
+codalab_dir/
