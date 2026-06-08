@@ -1,0 +1,14 @@
+# Entornos
+.venv/
+__pycache__/
+*.pyc
+
+# Artefactos derivados del ETL (regenerables desde el notebook)
+*_processed.parquet
+*_processed.csv
+
+# Notebooks
+.ipynb_checkpoints/
+
+# macOS
+.DS_Store
