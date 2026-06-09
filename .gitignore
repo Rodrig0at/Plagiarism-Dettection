@@ -3,12 +3,17 @@
 __pycache__/
 *.pyc
 
-# Artefactos derivados del ETL (regenerables desde el notebook)
+# Artefactos derivados (regenerables)
 *_processed.parquet
 *_processed.csv
+artifacts/
 
 # Notebooks
 .ipynb_checkpoints/
 
 # macOS
 .DS_Store
+
+autoria_tfidf.ipynb
+baseline_bpe_tfidf.ipynb
+modelos.ipynb
