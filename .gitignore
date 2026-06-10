@@ -14,6 +14,12 @@ artifacts/
 # macOS
 .DS_Store
 
+#csv pesados
+train_clean.csv
+val_clean.csv
+test_clean.csv
+predictions.csv
+
 autoria_tfidf.ipynb
 baseline_bpe_tfidf.ipynb
 modelos.ipynb
